@@ -3,7 +3,8 @@ class LineItem < ActiveRecord::Base
   belongs_to :truck
   
   accepts_nested_attributes_for :product
-  attr_accessible :note, :product_id, :quantity, :product_id, :truck_id
+  accepts_nested_attributes_for :truck
+  attr_accessible :note, :product_id, :quantity, :unit_price, :product_id, :product_attributes, :truck_id, :truck_attributes
   
   delegate :make, :model, :description, :to => :product
   
@@ -38,6 +39,16 @@ class LineItem < ActiveRecord::Base
       self.product.attributes = attributes
     else
       self.product = p
+    end
+  end
+  
+  def truck_attributes=(attributes)
+    t = Truck.find_by_name attributes[:name]
+    if t.nil?
+      build_truck
+      self.truck.attributes = attributes
+    else
+      self.truck = t
     end
   end
   
