@@ -53,7 +53,7 @@ class LineItem < ActiveRecord::Base
   end
   
   def total_price
-    quantity * unit_price
+    quantity * unit_price unless quantity.nil? or unit_price.nil?
   end
   
   protected
