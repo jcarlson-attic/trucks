@@ -15,18 +15,25 @@ class LineItem < ActiveRecord::Base
     count = 0
     while (text = file.gets)
       
-      # trim line
-      text = text.chomp
+      begin
       
-      # split line into columns
-      qty, make, model, desc, uprice, truck, note = text.split "\t"
+        # processing line #
+        count += 1
+        
+        # trim line
+        text = text.chomp
       
-      # create LineItem
-      li = LineItem.create  :quantity => qty, 
-                            :product_attributes => {:make => make, :model => model, :description => desc, :unit_price => uprice.gsub(/[\$,]/,'')}, 
-                            :truck_attributes => {:name => truck},
-                            :note => note
-      count += 1
+        # split line into columns
+        qty, make, model, desc, uprice, truck, note = text.split "\t"
+      
+        # create LineItem
+        li = LineItem.create  :quantity => qty, 
+                              :product_attributes => {:make => make, :model => model, :description => desc, :unit_price => uprice.gsub(/[\$,]/,'')}, 
+                              :truck_attributes => {:name => truck},
+                              :note => note
+      rescue
+        puts "ERROR WHILE PROCCESSING LINE #{count}: #{text}"
+      end
     end
     count
   end
