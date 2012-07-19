@@ -1,4 +1,7 @@
 Trucks::Application.routes.draw do
+  
+  get 'by_truck' => 'line_items#by_truck'
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

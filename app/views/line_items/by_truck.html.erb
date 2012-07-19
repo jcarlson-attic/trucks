@@ -1,0 +1,45 @@
+<table>
+  
+  <% Truck.all.each do |truck| %>
+    <tr>
+      <th colspan="8"><%= truck.name %></th>
+    </tr>
+    <tr>
+      <th>QTY</th>
+      <th>MAKE</th>
+      <th>MODEL</th>
+      <th>DESCRIPTION</th>
+      <th>UNIT</th>
+      <th>TOTAL</th>
+      <th>NOTE</th>
+    </tr>
+  
+    <% truck.line_items.each do |line_item| %>
+      <tr>
+        <td><%= line_item.quantity %></td>
+        <td><%= line_item.make %></td>
+        <td><%= line_item.model %></td>
+        <td><%= line_item.description %></td>
+        <td><%= number_to_currency line_item.unit_price %></td>
+        <td><%= number_to_currency line_item.total_price %></td>
+        <td><%= line_item.note %></td>
+      </tr>
+    <% end %>
+    
+    <tr>
+      <td colspan="4">&nbsp;</td>
+      <td>TOTAL</td>
+      <td><%= number_to_currency truck.line_items.reduce(0) {|total, li| total + li.total_price }%></td>
+      <td>&nbsp;</td>
+    </tr>
+    
+  <% end %>
+  
+  <tr>
+    <td colspan="3">&nbsp;</td>
+    <td colspan="2">GRAND TOTAL</td>
+    <td><%= number_to_currency LineItem.all.reduce(0) {|total, li| total + li.total_price }%></td>
+    <td>&nbsp;</td>
+  </tr>
+  
+</table>
