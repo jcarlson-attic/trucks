@@ -9,6 +9,28 @@ class LineItem < ActiveRecord::Base
   
   after_initialize :after_init
   
+  def self.import(file_path)
+    file = File.open(file_path, "r")
+    count = 0
+    while (text = file.gets)
+      
+      # trim line
+      text = text.chomp
+      
+      # split line into columns
+      qty, make, model, desc, uprice, truck, note = text.split "\t"
+      
+      # create LineItem
+      li = LineItem.create  :quantity => qty, 
+                            :product_attributes => {:make => make, :model => model, :description => desc}, 
+                            :unit_price => uprice.gsub(/[\$,]/,''), 
+                            :truck_attributes => {:name => truck},
+                            :note => note
+      count += 1
+    end
+    count
+  end
+  
   def product_attributes=(attributes)
     p = Product.find_by_make_and_model attributes[:make], attributes[:model]
     if p.nil?
