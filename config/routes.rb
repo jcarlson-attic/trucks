@@ -2,6 +2,7 @@ Trucks::Application.routes.draw do
   
   get 'by_truck' => 'line_items#by_truck'
   get 'by_product' => 'line_items#by_product'
+  get 'by_product_truck' => 'line_items#by_product_truck'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

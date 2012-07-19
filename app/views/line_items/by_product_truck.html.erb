@@ -1,0 +1,52 @@
+<table>
+  
+  <tr>
+    <th colspan="6">BY PRODUCT</th>
+  </tr>
+  <tr>
+    <th>QTY</th>
+    <th>MAKE</th>
+    <th>MODEL</th>
+    <th>DESCRIPTION</th>
+    <th>UNIT</th>
+    <th>TOTAL</th>
+  </tr>
+  
+  <% Product.order(:make, :model).each do |product| %>
+    <tr>
+      <td><%= product.quantity %></td>
+      <td><%= product.make %></td>
+      <td><%= product.model %></td>
+      <td><%= product.description %></td>
+      <td><%= number_to_currency product.unit_price %></td>
+      <td><%= number_to_currency product.total_price %></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td colspan="5">
+        <table>
+          <tr>
+            <th>TRUCK</th>
+            <th>QTY</th>
+            <th>TOTAL</th>
+          </tr>
+          <% product.line_items.group(:truck_id).each do |line_item| %>
+            <tr>
+              <td><%= line_item.truck.name %></td>
+              <td><%= line_item.quantity %></td>
+              <td><%= number_to_currency line_item.total_price %></td>
+            </tr>
+          <% end %>
+        </table>
+      </td>
+    </tr>
+  <% end %>
+  
+  <tr>
+    <td colspan="3">&nbsp;</td>
+    <td colspan="2">GRAND TOTAL</td>
+    <td><%= number_to_currency Product.all.reduce(0) {|total, p| total + p.total_price }%></td>
+  </tr>
+  
+    
+</table>
