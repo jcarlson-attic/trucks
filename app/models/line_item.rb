@@ -4,9 +4,9 @@ class LineItem < ActiveRecord::Base
   
   accepts_nested_attributes_for :product
   accepts_nested_attributes_for :truck
-  attr_accessible :note, :product_id, :quantity, :unit_price, :product_id, :product_attributes, :truck_id, :truck_attributes
+  attr_accessible :note, :product_id, :quantity, :product_id, :product_attributes, :truck_id, :truck_attributes
   
-  delegate :make, :model, :description, :to => :product
+  delegate :make, :model, :description, :unit_price, :to => :product
   
   after_initialize :after_init
   
@@ -23,8 +23,7 @@ class LineItem < ActiveRecord::Base
       
       # create LineItem
       li = LineItem.create  :quantity => qty, 
-                            :product_attributes => {:make => make, :model => model, :description => desc}, 
-                            :unit_price => uprice.gsub(/[\$,]/,''), 
+                            :product_attributes => {:make => make, :model => model, :description => desc, :unit_price => uprice.gsub(/[\$,]/,'')}, 
                             :truck_attributes => {:name => truck},
                             :note => note
       count += 1
