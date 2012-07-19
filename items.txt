@@ -1,142 +1,191 @@
-3	Middle Atlantic	5-21-26	Equipment Racks	$236 	WISCONSIN PREP-ZONE 1	
+2	Middle Atlantic	5-21-26	Equipment Racks	$236 	WISCONSIN PREP-ZONE 1	
 1	Middle Atlantic	SP5-21-26	Side Panels	$172 	WISCONSIN PREP-ZONE 1	
-1	Middle Atlantic	TD2	2RU Drawer	$92 	WISCONSIN PREP-ZONE 1	
-3	Middle Atlantic	TD3	3RU Drawer	$100 	WISCONSIN PREP-ZONE 1	
+2	Middle Atlantic	TD3	3RU Drawer	$100 	WISCONSIN PREP-ZONE 1	
 1	Middle Atlantic	TD4	4RU Drawer	$106 	WISCONSIN PREP-ZONE 1	
+1	Middle Atlantic	TD5	5RU Drawer	$122 	WISCONSIN PREP-ZONE 1	
 1	Middle Atlantic	PBL2-CP12	2RU Rack Panels	$78 	WISCONSIN PREP-ZONE 1	12 panels per pack
 3	Middle Atlantic	PBL3-CP6	3RU Rack Panels	$55 	WISCONSIN PREP-ZONE 1	6 panels per pack
+4	Middle Atlantic	RRF12	12RU Rack Rails	$18 	WISCONSIN PREP-ZONE 1	
 1	Middle Atlantic	HW500	Rack Screws	$82 	WISCONSIN PREP-ZONE 1	500 Pc. Trim Head Classic Style 10-32 Rack Screws
-1	Tricaster	455	Switcher	$16,000 	WISCONSIN PREP-ZONE 1	Net trade-in of Model 300
-3	Furman	M-8X2	Power Strip	$44 	WISCONSIN PREP-ZONE 1	
+1	Tricaster	455	Switcher	$15,997 	WISCONSIN PREP-ZONE 1	Net trade-in of Model 300
+6	Furman	M-8X2	Power Strip	$55 	WISCONSIN PREP-ZONE 1	
 1	ART	ART-SLA1	Amplifier	$199 	WISCONSIN PREP-ZONE 1	
-1	Behringer	BEH-1C	Speakers	$62 	WISCONSIN PREP-ZONE 1	Pair
-1	ASUS	VS228H-P	22" LED Monitor	$156 	WISCONSIN PREP-ZONE 1	Live text monitor
-1	Samsung	650 Series	32" Monitor	$350 	WISCONSIN PREP-ZONE 1	
-1	unk	unk	Monitor Mount	$100 	WISCONSIN PREP-ZONE 1	Mounting kit
-1	Netgear	JGS516	Eth Switch	$170 	WISCONSIN PREP-ZONE 1	16-PORT GIGABIT ETH SWITCH 10/100/1000 MBPS
-1	Connectronics	CTX-16XFXM	Audio Panel	$116 	WISCONSIN PREP-ZONE 1	XLR Patch F to M
-1	Connectronics	CTX-16XMXF	Audio Panel	$116 	WISCONSIN PREP-ZONE 1	XLR Patch M to M
-1	Connectronics	32XB-HD	Video Panel	$185 	WISCONSIN PREP-ZONE 1	32 point BNC Feed-thru Panel for HD-SDI and SDI
-1	Markertek	CMP	Custom I/O Panel	$100 	WISCONSIN PREP-ZONE 1	Custom I/O panel
-1	Miscellaneous	Supplies	Miscellaneous	$1,000 	WISCONSIN PREP-ZONE 1	Build-out supplies
-3	Middle Atlantic	5-21-26	Equipment Racks	$236 	WISCONSIN PREP-ZONE 2	
+1	Behringer	BEH-1C	Speakers	$69 	WISCONSIN PREP-ZONE 1	Pair
+2	ASUS	VS228H-P	22" LED Monitor	$156 	WISCONSIN PREP-ZONE 1	Live text monitor
+2	ASUS	VS248H-P	24" LED Monitor	$208 	WISCONSIN PREP-ZONE 1	
+4	Recotec	RMVF-03	Monitor Mount	$69 	WISCONSIN PREP-ZONE 1	Mounting kit
+1	Netgear	JGS516	Eth Switch	$185 	WISCONSIN PREP-ZONE 1	16-PORT GIGABIT ETH SWITCH 10/100/1000 MBPS
+1	Connectronics	CTX-16XFXM	Audio Panel	$112 	WISCONSIN PREP-ZONE 1	XLR Patch F to M
+1	Connectronics	CTX-16XMXF	Audio Panel	$112 	WISCONSIN PREP-ZONE 1	XLR Patch M to M
+1	Connectronics	32XB-HD	Video Panel	$180 	WISCONSIN PREP-ZONE 1	32 point BNC Feed-thru Panel for HD-SDI and SDI
+3	Markertek	CMP	Custom I/O Panel	$100 	WISCONSIN PREP-ZONE 1	Custom I/O panel
+1	Miscellaneous	Supplies WI-PZ1	Miscellaneous	$500 	WISCONSIN PREP-ZONE 1	Build-out supplies
+2	Middle Atlantic	5-21-26	Equipment Racks	$236 	WISCONSIN PREP-ZONE 2	
 1	Middle Atlantic	SP5-21-26	Side Panels	$172 	WISCONSIN PREP-ZONE 2	
-1	Middle Atlantic	TD2	2RU Drawer	$92 	WISCONSIN PREP-ZONE 2	
-3	Middle Atlantic	TD3	3RU Drawer	$100 	WISCONSIN PREP-ZONE 2	
+2	Middle Atlantic	TD3	3RU Drawer	$100 	WISCONSIN PREP-ZONE 2	
 1	Middle Atlantic	TD4	4RU Drawer	$106 	WISCONSIN PREP-ZONE 2	
+1	Middle Atlantic	TD5	5RU Drawer	$122 	WISCONSIN PREP-ZONE 2	
 1	Middle Atlantic	PBL2-CP12	2RU Rack Panels	$78 	WISCONSIN PREP-ZONE 2	12 panels per pack
 3	Middle Atlantic	PBL3-CP6	3RU Rack Panels	$55 	WISCONSIN PREP-ZONE 2	6 panels per pack
+4	Middle Atlantic	RRF12	12RU Rack Rails	$18 	WISCONSIN PREP-ZONE 2	
 1	Middle Atlantic	HW500	Rack Screws	$82 	WISCONSIN PREP-ZONE 2	500 Pc. Trim Head Classic Style 10-32 Rack Screws
-1	Tricaster	455	Switcher	$16,000 	WISCONSIN PREP-ZONE 2	Net trade-in of Model 300
-3	Furman	M-8X2	Power Strip	$44 	WISCONSIN PREP-ZONE 2	
+1	Tricaster	455	Switcher	$15,997 	WISCONSIN PREP-ZONE 2	Net trade-in of Model 300
+6	Furman	M-8X2	Power Strip	$55 	WISCONSIN PREP-ZONE 2	
 1	ART	ART-SLA1	Amplifier	$199 	WISCONSIN PREP-ZONE 2	
-1	Behringer	BEH-1C	Speakers	$62 	WISCONSIN PREP-ZONE 2	Pair
-1	ASUS	VS228H-P	22" LED Monitor	$156 	WISCONSIN PREP-ZONE 2	Live text monitor
-1	Samsung	650 Series	32" Monitor	$350 	WISCONSIN PREP-ZONE 2	
-1	unk	unk	Monitor Mount	$100 	WISCONSIN PREP-ZONE 2	Mounting kit
-1	Netgear	JGS516	Eth Switch	$170 	WISCONSIN PREP-ZONE 2	16-PORT GIGABIT ETH SWITCH 10/100/1000 MBPS
-1	Connectronics	CTX-16XFXM	Audio Panel	$116 	WISCONSIN PREP-ZONE 2	XLR Patch F to M
-1	Connectronics	CTX-16XMXF	Audio Panel	$116 	WISCONSIN PREP-ZONE 2	XLR Patch M to M
-1	Connectronics	32XB-HD	Video Panel	$185 	WISCONSIN PREP-ZONE 2	32 point BNC Feed-thru Panel for HD-SDI and SDI
-1	Markertek	CMP	Custom I/O Panel	$100 	WISCONSIN PREP-ZONE 2	Custom I/O panel
-1	Miscellaneous	Supplies	Miscellaneous	$1,000 	WISCONSIN PREP-ZONE 2	Build-out supplies
-3	Middle Atlantic	5-21-26	Equipment Racks	$236 	MINNESOTA PREP-ZONE 1	
-1	Middle Atlantic	SP5-21-26	Side Panels	$172 	MINNESOTA PREP-ZONE 1	
-1	Middle Atlantic	TD2	2RU Drawer	$92 	MINNESOTA PREP-ZONE 1	
-3	Middle Atlantic	TD3	3RU Drawer	$100 	MINNESOTA PREP-ZONE 1	
+1	Behringer	BEH-1C	Speakers	$69 	WISCONSIN PREP-ZONE 2	Pair
+2	ASUS	VS228H-P	22" LED Monitor	$156 	WISCONSIN PREP-ZONE 2	Live text monitor
+2	Samsung	650 Series	32" Monitor	$208 	WISCONSIN PREP-ZONE 2	
+4	Recotec	RMVF-03	Monitor Mount	$69 	WISCONSIN PREP-ZONE 2	Mounting kit
+1	Netgear	JGS516	Eth Switch	$185 	WISCONSIN PREP-ZONE 2	16-PORT GIGABIT ETH SWITCH 10/100/1000 MBPS
+1	Connectronics	CTX-16XFXM	Audio Panel	$112 	WISCONSIN PREP-ZONE 2	XLR Patch F to M
+1	Connectronics	CTX-16XMXF	Audio Panel	$112 	WISCONSIN PREP-ZONE 2	XLR Patch M to M
+1	Connectronics	32XB-HD	Video Panel	$180 	WISCONSIN PREP-ZONE 2	32 point BNC Feed-thru Panel for HD-SDI and SDI
+3	Markertek	CMP	Custom I/O Panel	$100 	WISCONSIN PREP-ZONE 2	Custom I/O panel
+1	Miscellaneous	Supplies WI-PZ2	Miscellaneous	$500 	WISCONSIN PREP-ZONE 2	Build-out supplies
+2	Middle Atlantic	5-21-26	Equipment Racks	$236 	MINNESOTA PREP-ZONE 1	
+2	Middle Atlantic	TD3	3RU Drawer	$100 	MINNESOTA PREP-ZONE 1	
 1	Middle Atlantic	TD4	4RU Drawer	$106 	MINNESOTA PREP-ZONE 1	
+1	Middle Atlantic	TD5	5RU Drawer	$122 	MINNESOTA PREP-ZONE 1	
 1	Middle Atlantic	PBL2-CP12	2RU Rack Panels	$78 	MINNESOTA PREP-ZONE 1	12 panels per pack
 3	Middle Atlantic	PBL3-CP6	3RU Rack Panels	$55 	MINNESOTA PREP-ZONE 1	6 panels per pack
-1	Middle Atlantic	HW500	Rack Screws	$82 	MINNESOTA PREP-ZONE 1	500 Pc. Trim Head Classic Style 10-32 Rack Screws
-3	Furman	M-8X2	Power Strip	$44 	MINNESOTA PREP-ZONE 1	
-1	ART	ART-SLA1	Amplifier	$199 	MINNESOTA PREP-ZONE 1	
-1	Behringer	BEH-1C	Speakers	$62 	MINNESOTA PREP-ZONE 1	Pair
-1	ASUS	VS228H-P	22" LED Monitor	$156 	MINNESOTA PREP-ZONE 1	Live text monitor
-1	Samsung	650 Series	32" Monitor	$350 	MINNESOTA PREP-ZONE 1	
-1	unk	unk	Monitor Mount	$100 	MINNESOTA PREP-ZONE 1	Mounting kit
-1	Netgear	JGS516	Eth Switch	$170 	MINNESOTA PREP-ZONE 1	16-PORT GIGABIT ETH SWITCH 10/100/1000 MBPS
-1	Connectronics	CTX-16XFXM	Audio Panel	$116 	MINNESOTA PREP-ZONE 1	XLR Patch F to M
-1	Connectronics	CTX-16XMXF	Audio Panel	$116 	MINNESOTA PREP-ZONE 1	XLR Patch M to M
-1	Connectronics	32XB-HD	Video Panel	$185 	MINNESOTA PREP-ZONE 1	32 point BNC Feed-thru Panel for HD-SDI and SDI
-1	Markertek	CMP	Custom I/O Panel	$100 	MINNESOTA PREP-ZONE 1	Custom I/O panel
-1	Miscellaneous	Supplies	Miscellaneous	$1,000 	MINNESOTA PREP-ZONE 1	Build-out supplies
-3	Middle Atlantic	5-21-26	Equipment Racks	$236 	MINNESOTA PREP-ZONE 2	
-1	Middle Atlantic	SP5-21-26	Side Panels	$172 	MINNESOTA PREP-ZONE 2	
-1	Middle Atlantic	TD2	2RU Drawer	$92 	MINNESOTA PREP-ZONE 2	
-3	Middle Atlantic	TD3	3RU Drawer	$100 	MINNESOTA PREP-ZONE 2	
+3	Middle Atlantic	RRF12	12RU Rack Rails	$18 	MINNESOTA PREP-ZONE 1	
+5	Furman	M-8X2	Power Strip	$55 	MINNESOTA PREP-ZONE 1	
+1	ASUS	VE276Q	27" LED Monitor	$200 	MINNESOTA PREP-ZONE 1	
+1	Recotec	RMVF-03	Monitor Mount	$69 	MINNESOTA PREP-ZONE 1	Mounting kit
+1	Netgear	JGS516	Eth Switch	$185 	MINNESOTA PREP-ZONE 1	16-PORT GIGABIT ETH SWITCH 10/100/1000 MBPS
+1	Connectronics	CTX-16XFXM	Audio Panel	$112 	MINNESOTA PREP-ZONE 1	XLR Patch F to M
+1	Connectronics	CTX-16XMXF	Audio Panel	$112 	MINNESOTA PREP-ZONE 1	XLR Patch M to M
+1	Connectronics	32XB-HD	Video Panel	$180 	MINNESOTA PREP-ZONE 1	32 point BNC Feed-thru Panel for HD-SDI and SDI
+2	Markertek	CMP	Custom I/O Panel	$100 	MINNESOTA PREP-ZONE 1	Custom I/O panel
+1	Miscellaneous	Supplies MN-PZ1	Miscellaneous	$500 	MINNESOTA PREP-ZONE 1	Build-out supplies
+2	Middle Atlantic	5-21-26	Equipment Racks	$236 	MINNESOTA PREP-ZONE 2	
+2	Middle Atlantic	TD3	3RU Drawer	$100 	MINNESOTA PREP-ZONE 2	
 1	Middle Atlantic	TD4	4RU Drawer	$106 	MINNESOTA PREP-ZONE 2	
+1	Middle Atlantic	TD5	5RU Drawer	$122 	MINNESOTA PREP-ZONE 2	
 1	Middle Atlantic	PBL2-CP12	2RU Rack Panels	$78 	MINNESOTA PREP-ZONE 2	12 panels per pack
 3	Middle Atlantic	PBL3-CP6	3RU Rack Panels	$55 	MINNESOTA PREP-ZONE 2	6 panels per pack
-1	Middle Atlantic	HW500	Rack Screws	$82 	MINNESOTA PREP-ZONE 2	500 Pc. Trim Head Classic Style 10-32 Rack Screws
-3	Furman	M-8X2	Power Strip	$44 	MINNESOTA PREP-ZONE 2	
-1	ART	ART-SLA1	Amplifier	$199 	MINNESOTA PREP-ZONE 2	
-1	Behringer	BEH-1C	Speakers	$62 	MINNESOTA PREP-ZONE 2	Pair
-1	ASUS	VS228H-P	22" LED Monitor	$156 	MINNESOTA PREP-ZONE 2	Live text monitor
-1	Samsung	650 Series	32" Monitor	$350 	MINNESOTA PREP-ZONE 2	
-1	unk	unk	Monitor Mount	$100 	MINNESOTA PREP-ZONE 2	Mounting kit
-1	Netgear	JGS516	Eth Switch	$170 	MINNESOTA PREP-ZONE 2	16-PORT GIGABIT ETH SWITCH 10/100/1000 MBPS
-1	Connectronics	CTX-16XFXM	Audio Panel	$116 	MINNESOTA PREP-ZONE 2	XLR Patch F to M
-1	Connectronics	CTX-16XMXF	Audio Panel	$116 	MINNESOTA PREP-ZONE 2	XLR Patch M to M
-1	Connectronics	32XB-HD	Video Panel	$185 	MINNESOTA PREP-ZONE 2	32 point BNC Feed-thru Panel for HD-SDI and SDI
-1	Markertek	CMP	Custom I/O Panel	$100 	MINNESOTA PREP-ZONE 2	Custom I/O panel
-1	Miscellaneous	Supplies	Miscellaneous	$1,000 	MINNESOTA PREP-ZONE 2	Build-out supplies
+3	Middle Atlantic	RRF12	12RU Rack Rails	$18 	MINNESOTA PREP-ZONE 2	
+5	Furman	M-8X2	Power Strip	$55 	MINNESOTA PREP-ZONE 2	
+1	ASUS	VE276Q	27" LED Monitor	$200 	MINNESOTA PREP-ZONE 2	
+1	Recotec	RMVF-03	Monitor Mount	$69 	MINNESOTA PREP-ZONE 2	Mounting kit
+1	Netgear	JGS516	Eth Switch	$185 	MINNESOTA PREP-ZONE 2	16-PORT GIGABIT ETH SWITCH 10/100/1000 MBPS
+1	Connectronics	CTX-16XFXM	Audio Panel	$112 	MINNESOTA PREP-ZONE 2	XLR Patch F to M
+1	Connectronics	CTX-16XMXF	Audio Panel	$112 	MINNESOTA PREP-ZONE 2	XLR Patch M to M
+1	Connectronics	32XB-HD	Video Panel	$180 	MINNESOTA PREP-ZONE 2	32 point BNC Feed-thru Panel for HD-SDI and SDI
+2	Markertek	CMP	Custom I/O Panel	$100 	MINNESOTA PREP-ZONE 2	Custom I/O panel
+1	Miscellaneous	Supplies MN-PZ2	Miscellaneous	$500 	MINNESOTA PREP-ZONE 2	Build-out supplies
 1	Tricaster	850 to 855	Upgrade	$5,995	WISCONSIN-BADGER	
-1	Tricaster	3-Play 425	Replay System	$22,000	WISCONSIN-BADGER	
-4	AJA	3GDA	HDSDI Re-Clocker	$595	WISCONSIN-BADGER	
-4	Panasonic	HPX170	P2 Camcorder	$3,395	WISCONSIN-BADGER	
+1	Tricaster	3-Play 425 (B-stock)	Replay System	$18,995	WISCONSIN-BADGER	
+6	AJA	3GDA	HDSDI Re-Clocker	$579	WISCONSIN-BADGER	
+4	Panasonic	HPX170	P2 Camcorder	$3,128	WISCONSIN-BADGER	
 4	Petrol	PR410	Raincover	$100	WISCONSIN-BADGER	
-4	Varizoom	VZ-ROCK-DVX	Zoom Controller	$190	WISCONSIN-BADGER	
-4	Petrol	PC003	Camera Bag	$160	WISCONSIN-BADGER	
-1	360 Systems	Digicart E	Audio Server	$4,500	WISCONSIN-BADGER	
-1	Honda		Portable Generator	$5,000	WISCONSIN-BADGER	
+4	Varizoom	VZ-ROCK-DVX	Zoom Controller	$175	WISCONSIN-BADGER	
+4	Petrol	PC003	Camera Bag	$159	WISCONSIN-BADGER	
 1	Clearcom	RM702	Remote Station	$981	WISCONSIN-BADGER	
 1	JK Audio	ComPack	PL Interface for telco	$495	WISCONSIN-BADGER	Connects intercom to phone line
 1	JK Audio	Broadcast Host	Digital hybrid	$495	WISCONSIN-BADGER	Connects program audio to phone line
 3	Option	GlobeSurfer III+	Cellular phone line	$289	WISCONSIN-BADGER	Cellular telephone service
 2	Generic	Telephone	Phone handset	$15	WISCONSIN-BADGER	Basic telephone handset
+2	Daltech	Talkback Box	Announcer booth box	$565	WISCONSIN-BADGER	
 1	Tricaster	850 to 855	Upgrade	$5,995	WISCONSIN-GOPHER	
-1	Tricaster	3-Play 425	Replay System	$22,000	WISCONSIN-GOPHER	
-4	AJA	3GDA	HDSDI Re-Clocker	$595	WISCONSIN-GOPHER	
-1	360 Systems	Digicart E	Audio Server	$4,500	WISCONSIN-GOPHER	
-1	Honda		Portable Generator	$5,000	WISCONSIN-GOPHER	
+1	Tricaster	3-Play 425	Replay System	$21,995	WISCONSIN-GOPHER	
+6	AJA	3GDA	HDSDI Re-Clocker	$579	WISCONSIN-GOPHER	
 1	Clearcom	RM702	Remote Station	$981	WISCONSIN-GOPHER	
 1	JK Audio	ComPack	PL Interface for telco	$495	WISCONSIN-GOPHER	Connects intercom to phone line
 1	JK Audio	Broadcast Host	Digital hybrid	$495	WISCONSIN-GOPHER	Connects program audio to phone line
 3	Option	GlobeSurfer III+	Cellular phone line	$289	WISCONSIN-GOPHER	Cellular telephone service
 2	Generic	Telephone	Phone handset	$15	WISCONSIN-GOPHER	Basic telephone handset
-3	Middle Atlantic	5-21-26	Equipment Racks	$236	WISCONSIN-3000	
+2	Daltech	Talkback Box	Announcer booth box	$565	WISCONSIN-GOPHER	
+2	Middle Atlantic	5-21-26	Equipment Racks	$236	WISCONSIN-3000	
 1	Middle Atlantic	SP5-21-26	Side Panels	$172	WISCONSIN-3000	
-1	Middle Atlantic	TD2	2RU Drawer	$92	WISCONSIN-3000	
-3	Middle Atlantic	TD3	3RU Drawer	$100	WISCONSIN-3000	
-1	Middle Atlantic	TD4	4RU Drawer	$106	WISCONSIN-3000	
+2	Middle Atlantic	TD3	3RU Drawer	$100 	WISCONSIN-3000	
+1	Middle Atlantic	TD4	4RU Drawer	$106 	WISCONSIN-3000	
+1	Middle Atlantic	TD5	5RU Drawer	$122 	WISCONSIN-3000	
 1	Middle Atlantic	PBL2-CP12	2RU Rack Panels	$78	WISCONSIN-3000	12 panels per pack
 3	Middle Atlantic	PBL3-CP6	3RU Rack Panels	$55	WISCONSIN-3000	6 panels per pack
-1	Middle Atlantic	HW500	Rack Screws	$82	WISCONSIN-3000	500 Pc. Trim Head Classic Style 10-32 Rack Screws
-3	Furman	M-8X2	Power Strip	$44	WISCONSIN-3000	
+4	Middle Atlantic	RRF12	12RU Rack Rails	$18 	WISCONSIN-3000	
+6	Furman	M-8X2	Power Strip	$55	WISCONSIN-3000	
 1	ART	ART-SLA1	Amplifier	$199	WISCONSIN-3000	
-1	Behringer	BEH-1C	Speakers	$62	WISCONSIN-3000	Pair
-1	ASUS	VS228H-P	22" LED Monitor	$156	WISCONSIN-3000	Live text monitor
-1	Samsung	650 Series	32" Monitor	$350	WISCONSIN-3000	
-1	unk	unk	Monitor Mount	$100	WISCONSIN-3000	Mounting kit
-1	Netgear	JGS516	Eth Switch	$170	WISCONSIN-3000	16-PORT GIGABIT ETH SWITCH 10/100/1000 MBPS
-1	Connectronics	CTX-16XFXM	Audio Panel	$116	WISCONSIN-3000	XLR Patch F to M
-1	Connectronics	CTX-16XMXF	Audio Panel	$116	WISCONSIN-3000	XLR Patch M to M
-1	Connectronics	32XB-HD	Video Panel	$185	WISCONSIN-3000	32 point BNC Feed-thru Panel for HD-SDI and SDI
-1	Markertek	CMP	Custom I/O Panel	$100	WISCONSIN-3000	Custom I/O panel
-1	Misc	Mics	Build Out	$1,000	WISCONSIN-3000	Build out supplies
-2	JVA	A/V 150'	Cable	$350	COMCAST-CHICAGO	
-2	JVA	A/V 150'	Cable	$350	COMCAST-INDIANA	
-2	JVA	A/V 150'	Cable	$350	COMCAST-SANFRAN	
-2	JVA	A/V 150'	Cable	$350	COMCAST-SEATTLE	
-2	JVA	A/V 150'	Cable	$350	COMCAST-PITTSBURGH	
-2	JVA	A/V 150'	Cable	$350	COMCAST-MIAMI	
+1	Behringer	BEH-1C	Speakers	$69	WISCONSIN-3000	Pair
+2	ASUS	VS228H-P	22" LED Monitor	$156	WISCONSIN-3000	Live text monitor
+2	Samsung	VS248H-P	24" LED Monitor	$208	WISCONSIN-3000	
+4	Recotec	RMVF-03	Monitor Mount	$69	WISCONSIN-3000	Mounting kit
+1	Netgear	JGS516	Eth Switch	$185	WISCONSIN-3000	16-PORT GIGABIT ETH SWITCH 10/100/1000 MBPS
+1	Connectronics	CTX-16XFXM	Audio Panel	$112	WISCONSIN-3000	XLR Patch F to M
+1	Connectronics	CTX-16XMXF	Audio Panel	$112	WISCONSIN-3000	XLR Patch M to M
+1	Connectronics	32XB-HD	Video Panel	$180	WISCONSIN-3000	32 point BNC Feed-thru Panel for HD-SDI and SDI
+3	Markertek	CMP	Custom I/O Panel	$100	WISCONSIN-3000	Custom I/O panel
+1	Miscellaneous	Supplies WI-3K	Build Out	$500	WISCONSIN-3000	Build out supplies
+1	Newtek	Tricaster 455	Switcher	$21,995	ARIZONA	
+1	Newtek	Live Text	Live Text	$995	ARIZONA	
+1	Dell		Live Text Computer	$1,000	ARIZONA	
+4	Panasonic	HPX170	P2 Camcorder	$3,128	ARIZONA	Camera
+4	Petrol	PR410	Raincover	$100	ARIZONA	Raincover
+4	Varizoom	VZ-ROCK-DVX	Zoom Controller	$175	ARIZONA	Zoom controller
+4	Petrol	PC003	Camera Bag	$159	ARIZONA	Camera bag
+1	Manfrotto	35	Clamp	$26	ARIZONA	
+1	Manfrotto	244	Arm	$120	ARIZONA	
+4	Manfrotto	Tripod System		$397	ARIZONA	501HDV, 547BK Video Tripod System Kit w/bag
+1	Behringer	RX1202FX		$214	ARIZONA	
+1	Behringer	MDX2600		$121	ARIZONA	
+1	Clearcom	MS-702		$910	ARIZONA	
+1	Clearcom	CC26K		$156	ARIZONA	Producer headset
+4	Clearcom	CC-300-X4		$234	ARIZONA	Single muff headset
+4	Clearcom	RS-601		$227	ARIZONA	
+2	Sennheiser	HMD26-600XQ		$408	ARIZONA	
+1	Sennheiser	MD-46		$181	ARIZONA	
+1	Sennheiser	MZW-1		$0	ARIZONA	
+2	Azden	SGM1X		$165	ARIZONA	Shotgum mic
+1	AJA	250GB 7200 		$231	ARIZONA	
+1	AJA	KIPRO-RO		$3,360	ARIZONA	
+1	Sony	HDR-CX110		$355	ARIZONA	
+3	Boss	Armless task chair		$57	ARIZONA	
+1	Delvcam	DELV-RCLCD		$240	ARIZONA	
+1	Pelican	1660		$286	ARIZONA	
+1	Pelican	1669		$41	ARIZONA	
+1	Black Magic	HD Link Pro DVI		$460	ARIZONA	
+1	Connectronics	CTX-KIPRO-RM		$98	ARIZONA	
+4	JVA	CBLMC1505/9451(4V2A)300	300FT AV MULT, 4 1505A, 2 9451 - Kevlar/Techflex	$737	ARIZONA	
+2	JVA	CBLMC1505/9451(4V2A)200	200FT AV MULT, 4 1505A, 2 9451 - Kevlar/Techflex	$545	ARIZONA	
+6	JVA	150FT AV MULT, 4 1505A, 2 9451 - Kevlar/Techflex	150FT AV MULT, 4 1505A, 2 9451 - Kevlar/Techflex	$450	ARIZONA	
+1	JVA	250FT AV MULT, 2X1505, 8X9451 - Kevlar/Techflex	250FT AV MULT, 2X1505, 8X9451 - Kevlar/Techflex	$700	ARIZONA	
+4	JVA	25 FT BLUE XLRM-XLRF CABLE	25 FT BLUE XLRM-XLRF CABLE	$24	ARIZONA	
+4	JVA	100FT BLACK XLRM-XLRF CABLE	100FT BLACK XLRM-XLRF CABLE	$55	ARIZONA	
+4	JVA	100FT.RG59 FLEX,BNC-BNC,BLACK	100FT.RG59 FLEX,BNC-BNC,BLACK	$51	ARIZONA	
+1	JVA	150FT.4PR. XLR M/F CABLE ASSY.	150FT.4PR. XLR M/F CABLE ASSY.	$165	ARIZONA	
+2	JVA	150' CAT5E W/BOOTS (GREY)	150' CAT5E W/BOOTS (GREY)	$37	ARIZONA	
+2	Middle Atlantic	5-21-26	Equipment Racks	$236	ARIZONA	
+2	Middle Atlantic	TD3	3RU Drawer	$100	ARIZONA	
+1	Middle Atlantic	TD4	4RU Drawer	$106	ARIZONA	
+1	Middle Atlantic	TD5	5RU Drawer	$122	ARIZONA	
+1	Middle Atlantic	PBL2-CP12	2RU Rack Panels	$78	ARIZONA	12 panels per pack
+3	Middle Atlantic	PBL3-CP6	3RU Rack Panels	$55	ARIZONA	6 panels per pack
+4	Middle Atlantic	RRF12	12RU Rack Rails	$18	ARIZONA	
+6	Furman	M-8X2	Power Strip	$55	ARIZONA	
+1	ART	ART-SLA1	Amplifier	$199	ARIZONA	ART SLA-1 - 2-Channel Rackmount Power Amplifier
+1	Behringer	BEH-1C	Speakers	$69	ARIZONA	Pair
+3	ASUS	VS228H-P	22" LED Monitor	$156	ARIZONA	
+2	ASUS	VS248H-P	24" LED Monitor	$208	ARIZONA	
+4	Recotec	RMVF-03	Monitor Mount	$69	ARIZONA	Mounting kit
+1	Netgear	JGS516	Eth Switch	$185	ARIZONA	16-PORT GIGABIT ETH SWITCH 10/100/1000 MBPS
+1	Connectronics	CTX-16XFXM	Audio Panel	$112	ARIZONA	XLR Patch F to M
+1	Connectronics	CTX-16XMXF	Audio Panel	$112	ARIZONA	XLR Patch M to M
+1	Connectronics	32XB-HD	Video Panel	$180	ARIZONA	32 point BNC Feed-thru Panel for HD-SDI and SDI
+4	Markertek	CMP	Custom I/O Panel	$100	ARIZONA	Custom I/O panel
+1	Miscellaneous	Supplies AZ	Build Out	$1,500	ARIZONA	Build out supplies
+2	JVA	150FT AV MULT, 4 1505A, 2 9451 - Kevlar/Techflex	150FT AV MULT, 4 1505A, 2 9451 - Kevlar/Techflex	$450	COMCAST-CHICAGO	
+2	JVA	150FT AV MULT, 4 1505A, 2 9451 - Kevlar/Techflex	150FT AV MULT, 4 1505A, 2 9451 - Kevlar/Techflex	$450	COMCAST-INDIANA	
+2	JVA	150FT AV MULT, 4 1505A, 2 9451 - Kevlar/Techflex	150FT AV MULT, 4 1505A, 2 9451 - Kevlar/Techflex	$450	COMCAST-SANFRAN	
+2	JVA	150FT AV MULT, 4 1505A, 2 9451 - Kevlar/Techflex	150FT AV MULT, 4 1505A, 2 9451 - Kevlar/Techflex	$450	COMCAST-SEATTLE	
+2	JVA	150FT AV MULT, 4 1505A, 2 9451 - Kevlar/Techflex	150FT AV MULT, 4 1505A, 2 9451 - Kevlar/Techflex	$450	COMCAST-PITTSBURGH	
+2	JVA	150FT AV MULT, 4 1505A, 2 9451 - Kevlar/Techflex	150FT AV MULT, 4 1505A, 2 9451 - Kevlar/Techflex	$450	COMCAST-MIAMI	
 1	Newtek	850 to 855 Upgrade	Switcher upgrade	$5,995	COMCAST-HOUSTON	Newtek honoring NAB upgrade price
 1	Newtek	450 CS	Control Panel	$0	COMCAST-HOUSTON	Reallocated from WI-PZ #1 TCXD upgrade
 1	Tricaster	3Play 330	3ch. Replay System	$0	COMCAST-HOUSTON	Reallocated from SuperVan
 1	Kramer	VS-88HC	RGB router	$0	COMCAST-HOUSTON	Surplus from 2011 Comcast buildout
-2	JVA	A/V 150'	Cable	$350	COMCAST-HOUSTON	Joseph Electronics
-1	Ross	Carbonite 1M	Production Switcher	$25,900	GEORGIA-SUPERVAN	16 input, 24 button; 1 M/E panel, 2 M/E frame
-1	Ross	Xpression Studio AE	2ch. CG	$43,000	GEORGIA-SUPERVAN	Dual channel CG system
+2	JVA	150FT AV MULT, 4 1505A, 2 9451 - Kevlar/Techflex	150FT AV MULT, 4 1505A, 2 9451 - Kevlar/Techflex	$450	COMCAST-HOUSTON	Joseph Electronics
+1	Ross	Carbonite 1M	Production Switcher	$0	GEORGIA-SUPERVAN	16 input, 24 button; 1 M/E panel, 2 M/E frame
+1	Ross	Xpression Studio AE	2ch. CG	$0	GEORGIA-SUPERVAN	Dual channel CG system
 1	Bannister Lake	Scorebug	Bug box software	$0	GEORGIA-SUPERVAN	Free if Xpression purchased through BL
 2	Bannister Lake	On-Site Training	For Xpression and BL	$800	GEORGIA-SUPERVAN	Full day training; $1,100 for single day
 1	Newtek	3Play 820	8/2 replay system	$20,995	GEORGIA-SUPERVAN	10ch. replay, deeply discounted demo 820 unit
@@ -149,7 +198,6 @@
 1	WH Platts	Cables & Parts SuperVan		$650	GEORGIA-SUPERVAN	including panel-mount ST fiber ends
 1	WH Platts	Integration Labor SuperVan		$5,428	GEORGIA-SUPERVAN	~80 man-hours
 1	WH Platts	Audio patch panel		$800	GEORGIA-SUPERVAN	
-16	WH Platts	Fiber cable retermination		$35	GEORGIA-SUPERVAN	Four spools, four terminations per spool
 1	Horton	8x12 Cargo Trailer	Storage; B-unit	$4,895	GEORGIA-SUPERVAN	Empty box trailer for cables, equipment
 1	JK Audio	ComPack	PL Interface for telco	$495	GEORGIA-SUPERVAN	Connects intercom to phone line
 1	Option	GlobeSurfer III+	Cellular phone line	$289	GEORGIA-SUPERVAN	Cellular telephone service
@@ -191,7 +239,7 @@
 1	Pelican	PC1660	Talent case	$286	GEORGIA-MEMPHIS	
 1	Pelican	PC1669	Lid organizer	$41	GEORGIA-MEMPHIS	
 1	Generic	Storage	Additional storage	$200	GEORGIA-MEMPHIS	Buckets, Pelicans, whatever…
-2	AJA	3GDA	HDSDI Re-Clocker	$595	CALIFORNIA-PREP ZONE 1	HDSDI Re-Clocker
-2	AJA	3GDA	HDSDI Re-Clocker	$595	CALIFORNIA-PREP ZONE 2	HDSDI Re-Clocker
-2	AJA	3GDA	HDSDI Re-Clocker	$595	CALIFORNIA-PREP ZONE 3	HDSDI Re-Clocker
-2	AJA	3GDA	HDSDI Re-Clocker	$595	CALIFORNIA-PREP ZONE 4	HDSDI Re-Clocker
+2	AJA	3GDA	HDSDI Re-Clocker	$579	CALIFORNIA-PREP ZONE 1	HDSDI Re-Clocker
+2	AJA	3GDA	HDSDI Re-Clocker	$579	CALIFORNIA-PREP ZONE 2	HDSDI Re-Clocker
+2	AJA	3GDA	HDSDI Re-Clocker	$579	CALIFORNIA-PREP ZONE 3	HDSDI Re-Clocker
+2	AJA	3GDA	HDSDI Re-Clocker	$579	CALIFORNIA-PREP ZONE 4	HDSDI Re-Clocker
