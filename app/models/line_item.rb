@@ -5,6 +5,8 @@ class LineItem < ActiveRecord::Base
   accepts_nested_attributes_for :product
   attr_accessible :note, :product_id, :quantity, :product_id, :truck_id
   
+  delegate :make, :model, :description, :to => :product
+  
   after_initialize :after_init
   
   def product_attributes=(attributes)
@@ -15,6 +17,10 @@ class LineItem < ActiveRecord::Base
     else
       self.product = p
     end
+  end
+  
+  def total_price
+    quantity * unit_price
   end
   
   protected
